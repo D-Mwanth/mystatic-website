@@ -1,0 +1,8 @@
+stage                      = "dev"
+region                     = "us-east-1"
+business_name              = "hunters"
+domain_name                = "bughunter.life"
+additional_acm_domain_name = "*.bughunter.life"
+additional_domain_name     = "mysite.bughunter.life"
+default_document           = "index.html"
+error_document             = "404.html"
