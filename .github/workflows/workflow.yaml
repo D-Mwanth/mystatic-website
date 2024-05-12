@@ -31,5 +31,5 @@ jobs:
         run: |
           cd static-website-infra/
           terraform init
-          terraform apply -auto-approve
-          # terraform destroy -auto-approve
+          # terraform apply -auto-approve
+          terraform destroy -auto-approve
